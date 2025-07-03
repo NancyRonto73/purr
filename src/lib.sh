@@ -2,3 +2,4 @@
 set -eu
 
 echo "purr"
+# clarify the control flow
